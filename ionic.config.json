@@ -1,0 +1,8 @@
+{
+  "name": "aura",
+  "app_id": "97d6ffea",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
